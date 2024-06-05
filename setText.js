@@ -73,33 +73,9 @@ let xcount = 0;
 const collection = figma.variables.createVariableCollection("example-collection")
 const styleVariable = figma.variables.createVariable("style-variable", collection, "FLOAT")
 
-// Uses the first available local style as an example
-/*const localTextStyles = await figma.getLocalTextStylesAsync()
-const exampleTextStyle = localTextStyles[0]
-
-// Typography variables can be bound using setBoundVariable
-exampleTextStyle.setBoundVariable("fontWeight", weightVariable)*/
-
-
-
-
-
 
 
 pages.forEach(item => {
-
-    //----------------------------------------
-    let rect = figma.createRectangle();
-
-    // Move to (50, 50)
-    /*rect.x = 50
-    rect.y = 50
-    
-    // Set size to 200 x 100*/
-    rect.resize(1920, 1080)
-
-    // Set solid red fill
-    rect.fills = [{ type: 'SOLID', color: { r: 0.83, g: 0.89, b: 0.99 } }]
 
     //----------------------------------------
     let label = figma.createText();
@@ -113,32 +89,38 @@ pages.forEach(item => {
     text.fontName = { family: 'Avenir Next World', style: 'Medium' }
     text.fontSize = 42;
 
-    //textAlignHorizontal: CENTER; 
+    let innerFrame = figma.createFrame();
+    innerFrame.appendChild(text)
 
-    let parentFrame = figma.createFrame();
-    parentFrame.appendChild(text)
+    innerFrame.layoutMode = 'VERTICAL'
+    innerFrame.fills = [{ type: 'SOLID', color: { r: 0.94, g: 0.96, b: 1 } }]
+    innerFrame.layoutAlign = 'CENTER'
+    innerFrame.layoutSizingHorizontal = 'HUG'
+    innerFrame.cornerRadius = 15
+    innerFrame.layoutPositioning = 'AUTO'
 
-    parentFrame.layoutMode = 'VERTICAL'
-    parentFrame.fills = [{ type: 'SOLID', color: { r: 0.94, g: 0.96, b: 1 } }]
-    parentFrame.layoutAlign = 'CENTER'
-    parentFrame.layoutSizingHorizontal = 'HUG'
-    /*parentFrame.paddingLeft: 260
-    parentFrame.paddingRight: 260
-    parentFrame.paddingTop: 260
-    parentFrame.paddingBottom: 260*/
-    parentFrame.layoutPositioning = 'AUTO'
 
-    let myGroup = Group({ x: xpos, y: ypos },
-        rect, label, parentFrame
-        /*Rectangle({width: 1920, height: 1080, color: { r: 1, g: 0, b: 0 }  })
-        Text({ characters: item.text, fontSize: 42, y: 200, })*/
-    )
+    let outerFrame = figma.createFrame();
+
+    outerFrame.appendChild(label)
+    outerFrame.appendChild(innerFrame)
+
+    outerFrame.layoutMode = 'VERTICAL'
+    outerFrame.fills = [{ type: 'SOLID', color: { r: 0.83, g: 0.89, b: 0.99 } }]
+    outerFrame.layoutSizingHorizontal = 'HUG'
+    outerFrame.layoutAlign = 'STRETCH';
+    //outerFrame.layoutAlign = 'CENTER'
+    outerFrame.counterAxisSizingMode = 'FIXED';
+    outerFrame.primaryAxisSizingMode = 'FIXED' ;
+    outerFrame.layoutGrow = 1
+    outerFrame.resize(1920, 1080)
+    outerFrame.x = xpos
+    outerFrame.y = ypos
 
     if (xcount === 10) {
         ypos = 0;
         xcount = 0;
         xpos += 2120;
-
 
     } else {
         ypos += 1280;
