@@ -99,6 +99,14 @@ pages.forEach(item => {
     innerFrame.cornerRadius = 15
     innerFrame.layoutPositioning = 'AUTO'
 
+    innerFrame.itemSpacing = 70
+
+    innerFrame.paddingLeft = 70
+    innerFrame.paddingRight = 70
+    innerFrame.paddingTop = 70
+    innerFrame.paddingBottom = 70
+
+    //https://www.figma.com/plugin-docs/api/InferredAutoLayoutResult/ <-- auto layout 
 
     let outerFrame = figma.createFrame();
 
@@ -107,15 +115,28 @@ pages.forEach(item => {
 
     outerFrame.layoutMode = 'VERTICAL'
     outerFrame.fills = [{ type: 'SOLID', color: { r: 0.83, g: 0.89, b: 0.99 } }]
+    //https://www.figma.com/plugin-docs/api/properties/nodes-layoutsizingvertical/
     outerFrame.layoutSizingHorizontal = 'HUG'
     outerFrame.layoutAlign = 'STRETCH';
     //outerFrame.layoutAlign = 'CENTER'
     outerFrame.counterAxisSizingMode = 'FIXED';
     outerFrame.primaryAxisSizingMode = 'FIXED' ;
+
+    //https://www.figma.com/plugin-docs/api/properties/nodes-counteraxisalignitems/
+    outerFrame.primaryAxisAlignItems = "CENTER"
+    outerFrame.counterAxisAlignItems = "CENTER"
+
+    
+
+
+
+
     outerFrame.layoutGrow = 1
     outerFrame.resize(1920, 1080)
     outerFrame.x = xpos
     outerFrame.y = ypos
+
+
 
     if (xcount === 10) {
         ypos = 0;
