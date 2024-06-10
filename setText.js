@@ -64,6 +64,21 @@ const pages = [
 ];
 
 
+const wopp_ui_white = { r: 1, g: 1, b: 1}
+const wopp_ui_blue_1 = { r: 0.9569, g: 0.9647, b: 0.9961}
+
+const wopp_stroke_light = 4
+
+
+const wopp_ui_small_shadow = [{
+    type: "DROP_SHADOW",
+    color: {r: 0, g: 0, b: 0, a: 0.25},
+    offset: { x: 4, y: 4},
+    radius: 4,
+    visible: true,
+    blendMode: "NORMAL"
+    }]
+
 let ypos = 0;
 let xpos = 0;
 let xcount = 0;
@@ -96,7 +111,7 @@ pages.forEach(item => {
     innerFrame.fills = [{ type: 'SOLID', color: { r: 0.94, g: 0.96, b: 1 } }]
     innerFrame.layoutAlign = 'CENTER'
     innerFrame.layoutSizingHorizontal = 'HUG'
-    innerFrame.cornerRadius = 15
+    innerFrame.cornerRadius = 50
     innerFrame.layoutPositioning = 'AUTO'
 
     innerFrame.itemSpacing = 70
@@ -105,6 +120,16 @@ pages.forEach(item => {
     innerFrame.paddingRight = 70
     innerFrame.paddingTop = 70
     innerFrame.paddingBottom = 70
+
+    //https://forum.figma.com/t/how-to-set-a-nodes-strokegeometry/33662 <-- strokes
+    //https://www.figma.com/plugin-docs/api/LineNode/ < -- stroke weight (lineNode)
+    innerFrame.strokes = [{type: 'SOLID',  color: wopp_ui_white, opacity: 1}]
+    innerFrame.strokeWeight = wopp_stroke_light
+
+    //https://www.figma.com/plugin-docs/api/Effect/ <-- drop shadow
+    innerFrame.effects = wopp_ui_small_shadow
+
+
 
     //https://www.figma.com/plugin-docs/api/InferredAutoLayoutResult/ <-- auto layout 
 
@@ -115,7 +140,7 @@ pages.forEach(item => {
 
     outerFrame.layoutMode = 'VERTICAL'
     outerFrame.fills = [{ type: 'SOLID', color: { r: 0.83, g: 0.89, b: 0.99 } }]
-    //https://www.figma.com/plugin-docs/api/properties/nodes-layoutsizingvertical/
+    //https://www.figma.com/plugin-docs/api/properties/nodes-layoutsizingvertical/ < -- auto layout sizing 
     outerFrame.layoutSizingHorizontal = 'HUG'
     outerFrame.layoutAlign = 'STRETCH';
     //outerFrame.layoutAlign = 'CENTER'
