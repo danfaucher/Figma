@@ -147,7 +147,7 @@ pages.forEach(item => {
     outerFrame.counterAxisSizingMode = 'FIXED';
     outerFrame.primaryAxisSizingMode = 'FIXED' ;
 
-    //https://www.figma.com/plugin-docs/api/properties/nodes-counteraxisalignitems/
+    //https://www.figma.com/plugin-docs/api/properties/nodes-counteraxisalignitems/ <-- auto layout align items
     outerFrame.primaryAxisAlignItems = "CENTER"
     outerFrame.counterAxisAlignItems = "CENTER"
 

@@ -1,3 +1,5 @@
+// set to work in tandem with Typography Style Guide Generator
+
 const localTextStyles = await figma.getLocalTextStylesAsync()
 
 const wopp_ui_white = { r: 1, g: 1, b: 1 }
@@ -59,8 +61,8 @@ const styles = [
 
 let outerFrame = figma.createFrame();
 outerFrame.layoutMode = 'VERTICAL'
-outerFrame.fills = [{ type: 'SOLID', color: wopp_ui_blue_2 }]
-outerFrame.resize(1440, 64)
+//outerFrame.fills = [{ type: 'SOLID', color: wopp_ui_blue_2 }]
+outerFrame.resize(1440, 22)
 
 //styles.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()))
 
@@ -74,7 +76,7 @@ styles.forEach(style => {
     title.fontName = { family: 'Inter', style: 'Medium' }
     title.fills = [{ type: 'SOLID', color: { r: 0.4118, g: 0.1608, b: 0.7686 } }] //purple
     title.fontSize = 18;
-    title.resize(140, 60)
+    title.resize(140, 22)
     //title.layoutSizingVertical = 'HUG'
 
 
@@ -97,6 +99,7 @@ styles.forEach(style => {
     if (style.fontSize) { fontDetails.characters += style.fontSize + 'px /' }
     if (style.lineHeight) { fontDetails.characters += ' ' + style.lineHeight + 'px /' }
     if (style.color) { fontDetails.characters += ' ' + style.color.toString() }
+    
 
     let sectionInfos = figma.createFrame()
     sectionInfos.layoutMode = 'VERTICAL'
@@ -104,17 +107,23 @@ styles.forEach(style => {
     sectionInfos.appendChild(fontStyle)
     sectionInfos.appendChild(fontDetails)
     sectionInfos.name = 'Infos'
-    sectionInfos.resize(250, 60)
+    sectionInfos.resize(250, 33)
 
     let lorum = figma.createText()
     lorum.characters = "Lorem ipsum"
     lorum.fontSize = style.fontSize;
     if (style.color) { lorum.fills[{ type: 'SOLID', color: style.color }] }
     lorum.fontName = { family: style.family, style: style.style }
+    lorum.resize(500, 33)
+
+    //https://www.figma.com/plugin-docs/api/TextNode/#layoutalign <-- Align - Hug, Fill and Fixed with Text Nodes
+    lorum.layoutAlign = 'STRETCH' // Vertical :: 'STRETCH' 'INHERIT'
+    lorum.layoutGrow = 1; // Horizontal :: setting this to 0 - text node = Fixed :: setting this to 1 will make the text node set to Fill
 
     let section = figma.createFrame()
     section.layoutMode = 'HORIZONTAL'
-    section.layoutSizingHorizontal = 'HUG'
+    section.layoutSizingVertical = 'HUG'
+    //section.layoutSizingHorizontal = 'FILL'
 
     //https://www.figma.com/plugin-docs/api/properties/nodes-counteraxisalignitems/ <-- auto layout align items
     section.primaryAxisAlignItems = "MIN"
@@ -132,6 +141,10 @@ styles.forEach(style => {
 })
 
 outerFrame.layoutSizingVertical = 'HUG'
+outerFrame.paddingLeft = 70
+outerFrame.paddingRight = 70
+outerFrame.paddingTop = 70
+outerFrame.paddingBottom = 70
 
 
 figma.notify(`My styles ${localTextStyles[5].name}`)
