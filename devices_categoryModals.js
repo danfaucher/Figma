@@ -64,8 +64,10 @@ const devices = [
 ]
 
 //percentage widths 
-const width_percentage = 0.80;
-const height_percentage = 0.60;
+//const width_percentage = 0.80;
+//const height_percentage = 0.60;
+const width_percentage = 1;
+const height_percentage = 1;
 
 const paywall_container = 750;
 /*1720, 70 @ 1920, 1080
@@ -153,8 +155,16 @@ for (let i = 0; i < devices.length; i++) {
     // cloneFrame node 
     let pageFrame = cloneFrame.clone(); 
     innerFrame.appendChild(pageFrame);
+    
+    //rescale height dependent on cloned frame being correct height
+    //let deviceRescale = devices[i].height/ 1080
+//let scalePercentage = pageFrame.height/ 1080
 
-    let deviceRescale = devices[i].width/ 1920
+
+    let deviceRescale = devices[i].height * .71
+
+
+
     //pageFrame.rescale(0.7)
     pageFrame.rescale(deviceRescale)
     if (xcount === 3) {

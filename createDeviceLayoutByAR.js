@@ -75,6 +75,9 @@ let close_x =
 let close_y = */
 
 
+const aspectratio_breakpoint = 1.78
+
+
 let ypos = 0;
 let xpos = 0;
 let xcount = 0;
@@ -167,31 +170,48 @@ for (let i = 0; i < devices.length; i++) {
     rightColumn.primaryAxisAlignItems = "CENTER"
     rightColumn.counterAxisAlignItems = "MIN"
     rightColumn.fills = [{ type: 'SOLID', color: wopp_ui_blue_2 }]
-
+        
     rightColumn.resize(devices[i].width * right_column, devices[i].height)
 
     // Inside Frames ------------------------------------------------------ END
 
-
-
-
     let closeButtonNode = figma.createNodeFromSvg(closeButton);
-    outerFrame.appendChild(closeButtonNode);
+    outerFrame.appendChild(closeButtonNode); 
     //set absolute position
     closeButtonNode.layoutPositioning = 'ABSOLUTE'
     closeButtonNode.x = devices[i].width - 200
     closeButtonNode.y = 70
     
-
-
-
-
-
     // text_content node 
     let rightColumnContent = text_content.clone(); 
     rightColumn.appendChild(rightColumnContent);
 
-    let deviceRescale = devices[i].width/ 1920
+    if ((devices[i].width/devices[i].height) > aspectratio_breakpoint ){
+        //mobile wide
+        var deviceRescale = devices[i].height/ 1080
+
+        //rightColumn gets centred
+        rightColumn.counterAxisAlignItems = "CENTER"
+        rightColumn.resize(devices[i].width * right_column - 240, devices[i].height)
+
+        //240 safety added right
+        let closeButtonSafety = figma.createFrame();
+
+        outerFrame.appendChild(closeButtonSafety)
+    
+        closeButtonSafety.layoutMode = 'VERTICAL'
+        closeButtonSafety.layoutSizingVertical = 'FILL' // FIXED/ HUG/ FILL
+        closeButtonSafety.layoutSizingHorizontal = 'FIXED' // FIXED/ HUG/ FILL
+        closeButtonSafety.primaryAxisAlignItems = "CENTER"
+        closeButtonSafety.counterAxisAlignItems = "MIN"
+        closeButtonSafety.fills = [{ type: 'SOLID', color: wopp_ui_blue_2 }]
+    
+        closeButtonSafety.resize(240, devices[i].height)
+        
+    }else {
+        var deviceRescale = devices[i].width/ 1920
+    }
+    
     //rightColumnContent.rescale(0.7)
     rightColumnContent.rescale(deviceRescale)
     if (xcount === 3) {

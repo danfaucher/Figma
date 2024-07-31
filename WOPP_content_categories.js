@@ -10,7 +10,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6283025955715809280",
@@ -20,7 +20,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6318140191475236864",
@@ -30,7 +30,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6379360629936881664",
@@ -40,7 +40,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6283025676505186304",
@@ -50,7 +50,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6283024986068221952",
@@ -60,7 +60,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6283025481495216128",
@@ -70,7 +70,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6206942370492055552",
@@ -80,7 +80,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6172155804536274944",
@@ -90,7 +90,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6206942726387138560",
@@ -100,7 +100,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6318133646549057536",
@@ -110,7 +110,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6283025200715923456",
@@ -120,7 +120,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6206942583952769024",
@@ -130,7 +130,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6326540899375382528",
@@ -140,7 +140,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6206942829898366976",
@@ -150,7 +150,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6350207454436917248",
@@ -159,8 +159,8 @@ const games = [
     "game": "Birthday Baking",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Family",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6554422785608392704",
@@ -169,8 +169,8 @@ const games = [
     "game": "Build with George",
     "Themed": "Sports",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "7127656050539761664",
@@ -179,8 +179,8 @@ const games = [
     "game": "Build with George Christmas",
     "Themed": "Sports",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6704167638326841344",
@@ -189,8 +189,8 @@ const games = [
     "game": "Schoolbus Ride Along",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6707357110736527360",
@@ -199,7 +199,7 @@ const games = [
     "game": "Guinea Pig Petting Farm",
     "Themed": "Animals",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Pets",
     "Gameplay": ""
   },
   {
@@ -209,8 +209,8 @@ const games = [
     "game": "Grandad Dog's Garage",
     "Themed": "Outdoors",
     "Location": "Outside",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Family",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6413507333535563776",
@@ -219,8 +219,8 @@ const games = [
     "game": "Messy Room",
     "Themed": "Travel",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "7127657621591822336",
@@ -229,8 +229,8 @@ const games = [
     "game": "Messy Room Christmas",
     "Themed": "Travel",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6183678743085580288",
@@ -239,8 +239,8 @@ const games = [
     "game": "Plant with Grandpa Pig",
     "Themed": "Food",
     "Location": "Outside",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Family",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6413507698716835840",
@@ -249,8 +249,8 @@ const games = [
     "game": "Silly Sounds",
     "Themed": "Party",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6843297083353731072",
@@ -259,7 +259,7 @@ const games = [
     "game": "Dinosaur Park",
     "Themed": "Animals",
     "Location": "Carnival",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -269,8 +269,8 @@ const games = [
     "game": "Motor Home",
     "Themed": "Travel",
     "Location": "Travel",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Family",
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6379330047047630848",
@@ -279,8 +279,8 @@ const games = [
     "game": "Stacking - Blocks",
     "Themed": "School",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6471771163149869056",
@@ -289,8 +289,8 @@ const games = [
     "game": "Stacking - Presents",
     "Themed": "School",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6318141147663302656",
@@ -299,8 +299,8 @@ const games = [
     "game": "Autumn",
     "Themed": "Outdoors",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6183676586504486912",
@@ -309,8 +309,8 @@ const games = [
     "game": "Christmas",
     "Themed": "Outdoors",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6252185890769076224",
@@ -319,8 +319,8 @@ const games = [
     "game": "Green",
     "Themed": "Outdoors",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6667168323930951680",
@@ -329,8 +329,8 @@ const games = [
     "game": "Core",
     "Themed": "Party",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6722284206776655872",
@@ -339,8 +339,8 @@ const games = [
     "game": "Christmas",
     "Themed": "Party",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6768326962783199232",
@@ -349,8 +349,8 @@ const games = [
     "game": "Easter",
     "Themed": "Party",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6707376837349351424",
@@ -359,8 +359,8 @@ const games = [
     "game": "Halloween",
     "Themed": "Party",
     "Location": "Carnival",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6579847772087390208",
@@ -369,7 +369,7 @@ const games = [
     "game": "Core",
     "Themed": "Outdoors",
     "Location": "Home",
-    "Character": "",
+    "Character": "Family",
     "Gameplay": ""
   },
   {
@@ -379,7 +379,7 @@ const games = [
     "game": "Core (with rainbow BGs)",
     "Themed": "Outdoors",
     "Location": "Home",
-    "Character": "",
+    "Character": "Family",
     "Gameplay": ""
   },
   {
@@ -389,7 +389,7 @@ const games = [
     "game": "Core (with Easter BGs)",
     "Themed": "Outdoors",
     "Location": "Home",
-    "Character": "",
+    "Character": "Family",
     "Gameplay": ""
   },
   {
@@ -399,7 +399,7 @@ const games = [
     "game": "Halloween",
     "Themed": "Outdoors",
     "Location": "Home",
-    "Character": "",
+    "Character": "Family",
     "Gameplay": ""
   },
   {
@@ -409,7 +409,7 @@ const games = [
     "game": "Summer",
     "Themed": "Outdoors",
     "Location": "Home",
-    "Character": "",
+    "Character": "Family",
     "Gameplay": ""
   },
   {
@@ -419,8 +419,8 @@ const games = [
     "game": "Produce",
     "Themed": "Outdoors",
     "Location": "Outside",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Family",
+    "Gameplay": "Narrative"
   },
   {
     "staging_ID": "6651163896216555520",
@@ -429,8 +429,8 @@ const games = [
     "game": "Garden",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6722311260582715392",
@@ -439,8 +439,8 @@ const games = [
     "game": "Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707400186297323520",
@@ -449,8 +449,8 @@ const games = [
     "game": "Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6814229960425869312",
@@ -459,8 +459,8 @@ const games = [
     "game": "New York",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6879598994201526272",
@@ -469,8 +469,8 @@ const games = [
     "game": "Dinosaurs",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "7174134519515455488",
@@ -479,8 +479,8 @@ const games = [
     "game": "Peppa's 20th Party",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6874412798731108352",
@@ -489,8 +489,8 @@ const games = [
     "game": "Ingredients",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6770833748257935360",
@@ -499,8 +499,8 @@ const games = [
     "game": "Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6350224995897049088",
@@ -509,8 +509,8 @@ const games = [
     "game": "Winter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6657684163055067136",
@@ -519,8 +519,8 @@ const games = [
     "game": "OutdoorGreenForest",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6657684163055067136",
@@ -529,8 +529,8 @@ const games = [
     "game": "OutdoorGreenForest (w/ Easter Egg Findables)",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6856283498488274944",
@@ -539,8 +539,8 @@ const games = [
     "game": "Soft Play Center",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6787939117971017728",
@@ -549,8 +549,8 @@ const games = [
     "game": "Muddy Festival",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6873129148186103808",
@@ -559,8 +559,8 @@ const games = [
     "game": "Grandpa Pig's Garden",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6838225407368765440",
@@ -569,8 +569,8 @@ const games = [
     "game": "Halloween Party",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6712763083663876096",
@@ -579,8 +579,8 @@ const games = [
     "game": "Playgroup",
     "Themed": "Sports",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6609926146407141376",
@@ -589,8 +589,8 @@ const games = [
     "game": "Core",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6811697887584587776",
@@ -599,8 +599,8 @@ const games = [
     "game": "Wild West",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6648331747029422080",
@@ -609,8 +609,8 @@ const games = [
     "game": "Easter",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707104424380342272",
@@ -619,8 +619,8 @@ const games = [
     "game": "Halloween",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6879823576451792896",
@@ -629,8 +629,8 @@ const games = [
     "game": "Jungle",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800532546171052032",
@@ -639,8 +639,8 @@ const games = [
     "game": "Track",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6582011277561438208",
@@ -649,8 +649,8 @@ const games = [
     "game": "Christmas",
     "Themed": "Food",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6823362941644054528",
@@ -659,8 +659,8 @@ const games = [
     "game": "Treasure (CMS-able)",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6516773506391875584",
@@ -669,8 +669,8 @@ const games = [
     "game": "Easter Eggs",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6603418194925985792",
@@ -679,8 +679,8 @@ const games = [
     "game": "Christmas Decorations",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6712526757744087040",
@@ -689,8 +689,8 @@ const games = [
     "game": "Berries",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6707304184517234688",
@@ -699,8 +699,8 @@ const games = [
     "game": "Halloween",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6758140878581403648",
@@ -709,8 +709,8 @@ const games = [
     "game": "Valentines",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6663937235183996928",
@@ -719,8 +719,8 @@ const games = [
     "game": "Seashell",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6758431659024191488",
@@ -729,8 +729,8 @@ const games = [
     "game": "Trophies",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6871920309403131904",
@@ -739,8 +739,8 @@ const games = [
     "game": "Food Groups",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "7178102668233412608",
@@ -749,8 +749,8 @@ const games = [
     "game": "Peppa's 20th Party",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6737153377897287680",
@@ -759,8 +759,8 @@ const games = [
     "game": "Recycling (sorting_Recycle)",
     "Themed": "Party",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Level_challenge"
   },
   {
     "staging_ID": "6945810129963196416",
@@ -769,7 +769,7 @@ const games = [
     "game": "Pretend Shop",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -779,7 +779,7 @@ const games = [
     "game": "Cave",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -789,7 +789,7 @@ const games = [
     "game": "Daddy Pig Chef",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -799,7 +799,7 @@ const games = [
     "game": "Bedroom",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -809,7 +809,7 @@ const games = [
     "game": "Theatre (**4.3 update with Hash Brown)",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -819,7 +819,7 @@ const games = [
     "game": "Theatre_Christmas",
     "Themed": "Party",
     "Location": "Playground",
-    "Character": "",
+    "Character": "Friends",
     "Gameplay": ""
   },
   {
@@ -829,8 +829,8 @@ const games = [
     "game": "Friends",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6185184722545541120",
@@ -839,8 +839,8 @@ const games = [
     "game": "Winter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6645016255988506624",
@@ -849,8 +849,8 @@ const games = [
     "game": "Easter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6235866906276921344",
@@ -859,8 +859,8 @@ const games = [
     "game": "Spring",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6813919677912326144",
@@ -869,8 +869,8 @@ const games = [
     "game": "America",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6264826387727646720",
@@ -879,8 +879,8 @@ const games = [
     "game": "Summer",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318149190308331520",
@@ -889,8 +889,8 @@ const games = [
     "game": "Autumn",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6800497888431579136",
@@ -899,8 +899,8 @@ const games = [
     "game": "Balls",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6867221377683038208",
@@ -909,8 +909,8 @@ const games = [
     "game": "Desserts",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318170017225506816",
@@ -919,8 +919,8 @@ const games = [
     "game": "Halloween",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6239887358435524608",
@@ -929,8 +929,8 @@ const games = [
     "game": "Christmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6565274221195956224",
@@ -939,8 +939,8 @@ const games = [
     "game": "Australia",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318189477193842688",
@@ -949,8 +949,8 @@ const games = [
     "game": "AutumnHarvest",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318185471843237888",
@@ -959,8 +959,8 @@ const games = [
     "game": "AutumnHike",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6565276799694671872",
@@ -969,8 +969,8 @@ const games = [
     "game": "Bicycles",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6689232977515520000",
@@ -979,8 +979,8 @@ const games = [
     "game": "Boat",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6699417177543680000",
@@ -989,8 +989,8 @@ const games = [
     "game": "Cake",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318179192118706176",
@@ -999,8 +999,8 @@ const games = [
     "game": "CampfireStories",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6215264176651108352",
@@ -1009,8 +1009,8 @@ const games = [
     "game": "ChristmasVisit",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6671513080698245120",
@@ -1019,8 +1019,8 @@ const games = [
     "game": "City (Holiday)",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6899844594054479872",
@@ -1029,8 +1029,8 @@ const games = [
     "game": "Easter",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318181281528020992",
@@ -1039,8 +1039,8 @@ const games = [
     "game": "GeorgeDigger",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6200346680533975040",
@@ -1049,8 +1049,8 @@ const games = [
     "game": "GeorgesToys",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6273257632664911872",
@@ -1059,8 +1059,8 @@ const games = [
     "game": "GrannysChickens",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6582374510700929024",
@@ -1069,8 +1069,8 @@ const games = [
     "game": "Halloween",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6831290237965307904",
@@ -1079,8 +1079,8 @@ const games = [
     "game": "Pumpkin",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318185471843237888",
@@ -1089,8 +1089,8 @@ const games = [
     "game": "Hike",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6671514655864922112",
@@ -1099,8 +1099,8 @@ const games = [
     "game": "Instrument",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6565275801769091072",
@@ -1109,8 +1109,8 @@ const games = [
     "game": "Office",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6273260802942173184",
@@ -1119,8 +1119,8 @@ const games = [
     "game": "Playgroup",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6200332270440546304",
@@ -1129,8 +1129,8 @@ const games = [
     "game": "PeppasToys",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6899809165410320384",
@@ -1139,8 +1139,8 @@ const games = [
     "game": "RichardRabbit",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6811731108946911232",
@@ -1149,8 +1149,8 @@ const games = [
     "game": "Motorhome",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6758137261229088768",
@@ -1159,8 +1159,8 @@ const games = [
     "game": "NYC",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6945832005766750208",
@@ -1169,8 +1169,8 @@ const games = [
     "game": "Detective's Club",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6788226767969853440",
@@ -1179,8 +1179,8 @@ const games = [
     "game": "Festival",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6722303260254019584",
@@ -1189,8 +1189,8 @@ const games = [
     "game": "North George",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6879512970561593344",
@@ -1199,8 +1199,8 @@ const games = [
     "game": "Scavenger ",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6206951875162406912",
@@ -1209,8 +1209,8 @@ const games = [
     "game": "SnowDay",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6257951469031391232",
@@ -1219,8 +1219,8 @@ const games = [
     "game": "SpaceTrip",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6245660037218304000",
@@ -1229,8 +1229,8 @@ const games = [
     "game": "SpringVegetables",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6245662242331688960",
@@ -1239,8 +1239,8 @@ const games = [
     "game": "TeaParty",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "7174033447828459520",
@@ -1249,8 +1249,8 @@ const games = [
     "game": "Peppa's 20th Party",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6206954354717491200",
@@ -1259,8 +1259,8 @@ const games = [
     "game": "WinterPeppa",
     "Themed": "Holidays",
     "Location": "Playground",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "George",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6379326577804574720",
@@ -1269,8 +1269,8 @@ const games = [
     "game": "PeppasFamily",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6780606171832389632",
@@ -1279,8 +1279,8 @@ const games = [
     "game": "Playground (scene)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6722282504497401856",
@@ -1289,8 +1289,8 @@ const games = [
     "game": "Christmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6691743402564001792",
@@ -1299,8 +1299,8 @@ const games = [
     "game": "Dinosaurs",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6707105260246405120",
@@ -1309,8 +1309,8 @@ const games = [
     "game": "Halloween",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6712538960224325632",
@@ -1319,8 +1319,8 @@ const games = [
     "game": "Garden",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6663934082233409536",
@@ -1329,8 +1329,8 @@ const games = [
     "game": "Ocean",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6811704285936623616",
@@ -1339,8 +1339,8 @@ const games = [
     "game": "Squaredancing",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6736660184130916352",
@@ -1349,8 +1349,8 @@ const games = [
     "game": "CityWheels",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6770841671738597376",
@@ -1359,8 +1359,8 @@ const games = [
     "game": "Easter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583401319089446912",
@@ -1369,8 +1369,8 @@ const games = [
     "game": "AutumnLeaves",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583378271208611840",
@@ -1379,8 +1379,8 @@ const games = [
     "game": "BackyardGames",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318193516111462400",
@@ -1389,8 +1389,8 @@ const games = [
     "game": "Balloons (Hot Air)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583417392727728128",
@@ -1399,8 +1399,8 @@ const games = [
     "game": "BubbleFun",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583437146104401920",
@@ -1409,8 +1409,8 @@ const games = [
     "game": "Carnival",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6843349423259656192",
@@ -1419,8 +1419,8 @@ const games = [
     "game": "Castle",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6204014956589875200",
@@ -1429,8 +1429,8 @@ const games = [
     "game": "ChristmasFair",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6339205137659068416",
@@ -1439,8 +1439,8 @@ const games = [
     "game": "ChristmasOuting",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6204014443035099136",
@@ -1449,8 +1449,8 @@ const games = [
     "game": "CoolFamily",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6899845928879136768",
@@ -1459,8 +1459,8 @@ const games = [
     "game": "EasterEggs",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583414543209861120",
@@ -1469,8 +1469,8 @@ const games = [
     "game": "EdmondAstronaut",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6899846417968537600",
@@ -1479,8 +1479,8 @@ const games = [
     "game": "EggHunt",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6781276844128997376",
@@ -1489,8 +1489,8 @@ const games = [
     "game": "Mandy Mouse",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6781277344249417728",
@@ -1499,8 +1499,8 @@ const games = [
     "game": "Farfamilies",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6819271997130940416",
@@ -1509,8 +1509,8 @@ const games = [
     "game": "Performing Arts",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6813590531357151232",
@@ -1519,8 +1519,8 @@ const games = [
     "game": "Miss Rabbit",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6339205137659068416",
@@ -1529,8 +1529,8 @@ const games = [
     "game": "FatherChristmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6849094500892286976",
@@ -1539,8 +1539,8 @@ const games = [
     "game": "Family Christmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6631669391436685312",
@@ -1549,8 +1549,8 @@ const games = [
     "game": "Flowers",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583419228977238016",
@@ -1559,8 +1559,8 @@ const games = [
     "game": "GardenCritters",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6582354265978310656",
@@ -1569,8 +1569,8 @@ const games = [
     "game": "Halloween",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6562366577347010560",
@@ -1579,8 +1579,8 @@ const games = [
     "game": "MrDinosaur",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6560011923527176192",
@@ -1589,8 +1589,8 @@ const games = [
     "game": "MrPotato",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6671515666469883904",
@@ -1599,8 +1599,8 @@ const games = [
     "game": "Mystery",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6318458759412711424",
@@ -1609,8 +1609,8 @@ const games = [
     "game": "PicnicLunch",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6631672702625779712",
@@ -1619,8 +1619,8 @@ const games = [
     "game": "Pirates",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6689231377099132928",
@@ -1629,8 +1629,8 @@ const games = [
     "game": "Pizza",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "",
@@ -1639,8 +1639,8 @@ const games = [
     "game": "PlayForts",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "7001982552156278784",
@@ -1649,8 +1649,8 @@ const games = [
     "game": "PlaygroundFun",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583439613349203968",
@@ -1659,8 +1659,8 @@ const games = [
     "game": "Suzy",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6204014824343470080",
@@ -1669,8 +1669,8 @@ const games = [
     "game": "Skating",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6339208909827342336",
@@ -1679,8 +1679,8 @@ const games = [
     "game": "SkiLesson",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6214663157659467776",
@@ -1689,8 +1689,8 @@ const games = [
     "game": "Snowday",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6583441109079953408",
@@ -1699,8 +1699,8 @@ const games = [
     "game": "SpaceTrip",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6204014669611401216",
@@ -1709,8 +1709,8 @@ const games = [
     "game": "Tobogganing",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6843350362561454080",
@@ -1719,8 +1719,8 @@ const games = [
     "game": "ToyBear",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6671516097333960704",
@@ -1729,8 +1729,8 @@ const games = [
     "game": "Trophy",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6603332922758533120",
@@ -1739,8 +1739,8 @@ const games = [
     "game": "WinterBird",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6529413344198795264",
@@ -1749,8 +1749,8 @@ const games = [
     "game": "WorldAdventure",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Puzzles"
   },
   {
     "staging_ID": "6830942070140837888",
@@ -1759,8 +1759,8 @@ const games = [
     "game": "Autumn",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6722578931291267072",
@@ -1769,8 +1769,8 @@ const games = [
     "game": "Christmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6899880496143286272",
@@ -1779,8 +1779,8 @@ const games = [
     "game": "Easter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6843352589250334720",
@@ -1789,8 +1789,8 @@ const games = [
     "game": "Halloween",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "7001983314752049152",
@@ -1799,8 +1799,8 @@ const games = [
     "game": "Spring",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6670771828738498560",
@@ -1809,8 +1809,8 @@ const games = [
     "game": "Summer",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6722579881447923712",
@@ -1819,8 +1819,8 @@ const games = [
     "game": "Winter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6610281327581863936",
@@ -1829,8 +1829,8 @@ const games = [
     "game": "Peppa_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6380420051215843328",
@@ -1839,8 +1839,8 @@ const games = [
     "game": "Peppa_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6516758152018010112",
@@ -1849,8 +1849,8 @@ const games = [
     "game": "Peppa_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6580138177475514368",
@@ -1859,8 +1859,8 @@ const games = [
     "game": "Peppa_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6603406708837060608",
@@ -1869,8 +1869,8 @@ const games = [
     "game": "Peppa_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6559906618885677056",
@@ -1879,8 +1879,8 @@ const games = [
     "game": "Peppa_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800204505125359616",
@@ -1889,8 +1889,8 @@ const games = [
     "game": "Peppa_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6554475779993509888",
@@ -1899,8 +1899,8 @@ const games = [
     "game": "Peppa_Space",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6610285351467094016",
@@ -1909,8 +1909,8 @@ const games = [
     "game": "George_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6285944071466778624",
@@ -1919,8 +1919,8 @@ const games = [
     "game": "George_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6899890215692017664",
@@ -1929,8 +1929,8 @@ const games = [
     "game": "George_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6580139156094717952",
@@ -1939,8 +1939,8 @@ const games = [
     "game": "George_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6603409677578018816",
@@ -1949,8 +1949,8 @@ const games = [
     "game": "George_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6560001884804485120",
@@ -1959,8 +1959,8 @@ const games = [
     "game": "George_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800202499644071936",
@@ -1969,8 +1969,8 @@ const games = [
     "game": "George_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6554479429822320640",
@@ -1979,8 +1979,8 @@ const games = [
     "game": "George_Space",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6285944920607817728",
@@ -1989,8 +1989,8 @@ const games = [
     "game": "MumPig_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6285944920607817728",
@@ -1999,8 +1999,8 @@ const games = [
     "game": "MumPig_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6899882883234930688",
@@ -2009,8 +2009,8 @@ const games = [
     "game": "MumPig_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707370141805711360",
@@ -2019,8 +2019,8 @@ const games = [
     "game": "MumPig_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6603411157903089664",
@@ -2029,8 +2029,8 @@ const games = [
     "game": "MumPig_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800205371748257792",
@@ -2039,8 +2039,8 @@ const games = [
     "game": "MumPig_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6562080370922758144",
@@ -2049,8 +2049,8 @@ const games = [
     "game": "MumPig_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6610267972745961472",
@@ -2059,8 +2059,8 @@ const games = [
     "game": "DadPig_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6285946291386056704",
@@ -2069,8 +2069,8 @@ const games = [
     "game": "DadPig_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6899888138236469248",
@@ -2079,8 +2079,8 @@ const games = [
     "game": "DadPig_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707344626516500480",
@@ -2089,8 +2089,8 @@ const games = [
     "game": "DadPig_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6603413389247647744",
@@ -2099,8 +2099,8 @@ const games = [
     "game": "DadPig_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6562079427208552448",
@@ -2109,8 +2109,8 @@ const games = [
     "game": "DadPig_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800207765643071488",
@@ -2119,8 +2119,8 @@ const games = [
     "game": "DadPig_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6712508979884593152",
@@ -2129,8 +2129,8 @@ const games = [
     "game": "Suzy_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6697609628146212864",
@@ -2139,8 +2139,8 @@ const games = [
     "game": "Suzy_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6771150698427191296",
@@ -2149,8 +2149,8 @@ const games = [
     "game": "Suzy_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6788221569763381248",
@@ -2159,8 +2159,8 @@ const games = [
     "game": "Suzy_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800200349476069376",
@@ -2169,8 +2169,8 @@ const games = [
     "game": "Suzy_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707373689838772224",
@@ -2179,8 +2179,8 @@ const games = [
     "game": "Suzy_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6722277008071729152",
@@ -2189,8 +2189,8 @@ const games = [
     "game": "Suzy_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6712504492507795456",
@@ -2199,8 +2199,8 @@ const games = [
     "game": "Danny_ColdWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6697612139104051200",
@@ -2209,8 +2209,8 @@ const games = [
     "game": "Danny_WarmWeather",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6771148960995479552",
@@ -2219,8 +2219,8 @@ const games = [
     "game": "Danny_Easter",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6788224132881584128",
@@ -2229,8 +2229,8 @@ const games = [
     "game": "Danny_Festival",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6800198802717417472",
@@ -2239,8 +2239,8 @@ const games = [
     "game": "Danny_Sports",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707375327517347840",
@@ -2249,8 +2249,8 @@ const games = [
     "game": "Danny_Halloween",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6722278395128057856",
@@ -2259,8 +2259,8 @@ const games = [
     "game": "Danny_Christmas",
     "Themed": "Holidays",
     "Location": "Home",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Friends",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6450824575289655296",
@@ -2270,7 +2270,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "",
@@ -2280,7 +2280,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6415325200082010112",
@@ -2290,7 +2290,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6350211961258508288",
@@ -2300,7 +2300,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6686134027363295232",
@@ -2310,7 +2310,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6603415340257513472",
@@ -2320,7 +2320,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6707073433100099584",
@@ -2330,7 +2330,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6640523716161970176",
@@ -2340,7 +2340,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "",
@@ -2350,7 +2350,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6879819834839023616",
@@ -2360,7 +2360,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6947304762933252096",
@@ -2370,7 +2370,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6791429520428769280",
@@ -2380,7 +2380,7 @@ const games = [
     "Themed": "Outdoors",
     "Location": "Outside",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "World_Build"
   },
   {
     "staging_ID": "6765731411026120704",
@@ -2389,8 +2389,8 @@ const games = [
     "game": "COVIDRainbow (8 Sheets)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6239882917921685504",
@@ -2399,8 +2399,8 @@ const games = [
     "game": "FatherChristmas",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6222177432279973888",
@@ -2409,8 +2409,8 @@ const games = [
     "game": "ChristmasHoliday (8 sheets)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6318513483545575424",
@@ -2419,8 +2419,8 @@ const games = [
     "game": "Halloween",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6707329654801571840",
@@ -2429,8 +2429,8 @@ const games = [
     "game": "Halloween 2",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6206939351721443328",
@@ -2439,8 +2439,8 @@ const games = [
     "game": "SnowActivity (colouring_Winter1)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6222075423187009536",
@@ -2449,8 +2449,8 @@ const games = [
     "game": "MountainSnow",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6222176262111100928",
@@ -2459,8 +2459,8 @@ const games = [
     "game": "AlpineHoliday",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6587032696611540992",
@@ -2469,8 +2469,8 @@ const games = [
     "game": "CoolFriends",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6587034800621228032",
@@ -2479,8 +2479,8 @@ const games = [
     "game": "AutumnFarm",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6583476625192132608",
@@ -2489,8 +2489,8 @@ const games = [
     "game": "DaysOutside",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6871265462894993408",
@@ -2499,8 +2499,8 @@ const games = [
     "game": "Cheese World",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6871260945554087936",
@@ -2509,8 +2509,8 @@ const games = [
     "game": "Fruit Veg World (cwp_Vegworld)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6642438033035759616",
@@ -2519,8 +2519,8 @@ const games = [
     "game": "Easter",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6645019952269238272",
@@ -2529,8 +2529,8 @@ const games = [
     "game": "SpringGreenery",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6780616056317943808",
@@ -2539,8 +2539,8 @@ const games = [
     "game": "Friends",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6780620458432925696",
@@ -2549,8 +2549,8 @@ const games = [
     "game": "Friends2",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6811705162428719104",
@@ -2559,8 +2559,8 @@ const games = [
     "game": "Hollywood",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6811712087836991488",
@@ -2569,8 +2569,8 @@ const games = [
     "game": "Cacti",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6788217370333941760",
@@ -2579,8 +2579,8 @@ const games = [
     "game": "Carnival",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6632771070517190656",
@@ -2589,8 +2589,8 @@ const games = [
     "game": "DayTrip",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6899892377423716352",
@@ -2599,8 +2599,8 @@ const games = [
     "game": "SunnyWheels",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6666099359788310528",
@@ -2609,8 +2609,8 @@ const games = [
     "game": "BeachPeppa",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6671517676476829696",
@@ -2619,8 +2619,8 @@ const games = [
     "game": "SeaGeorge",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6273620300718407680",
@@ -2629,8 +2629,8 @@ const games = [
     "game": "Jungle",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6669477830116118528",
@@ -2639,8 +2639,8 @@ const games = [
     "game": "Instruments",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6697621571015806976",
@@ -2649,8 +2649,8 @@ const games = [
     "game": "Space (8 sheets)",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6686133193552437248",
@@ -2659,8 +2659,8 @@ const games = [
     "game": "Castle",
     "Themed": "School",
     "Location": "School",
-    "Character": "",
-    "Gameplay": ""
+    "Character": "Peppa",
+    "Gameplay": "Draw"
   },
   {
     "staging_ID": "6274986752956432384",
@@ -2670,7 +2670,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6519674236224278528",
@@ -2680,7 +2680,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6203977891110191104",
@@ -2690,7 +2690,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6519674792692158464",
@@ -2700,7 +2700,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6519675143881236480",
@@ -2710,7 +2710,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517579382627373056",
@@ -2720,7 +2720,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517595011677822976",
@@ -2730,7 +2730,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517610320946139136",
@@ -2740,7 +2740,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517594381279301632",
@@ -2750,7 +2750,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517609772084891648",
@@ -2760,7 +2760,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517602000021626880",
@@ -2770,7 +2770,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517609759676964864",
@@ -2780,7 +2780,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517595548759625728",
@@ -2790,7 +2790,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6381558010761707520",
@@ -2800,7 +2800,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6709547252490833920",
@@ -2810,7 +2810,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517610352442347520",
@@ -2820,7 +2820,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6274993873915740160",
@@ -2830,7 +2830,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517601148545540096",
@@ -2840,7 +2840,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6517610840825929728",
@@ -2850,7 +2850,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6203992594259640320",
@@ -2860,7 +2860,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656327502919245824",
@@ -2870,7 +2870,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6274992133413797888",
@@ -2880,7 +2880,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6709608163545063424",
@@ -2890,7 +2890,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6709606102942228480",
@@ -2900,7 +2900,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656293541518118912",
@@ -2910,7 +2910,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6274994171635826688",
@@ -2920,7 +2920,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656640931370504192",
@@ -2930,7 +2930,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6204022970831077376",
@@ -2940,7 +2940,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656640529782677504",
@@ -2950,7 +2950,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6274989484392054784",
@@ -2960,7 +2960,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656640200953434112",
@@ -2970,7 +2970,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6203993724565848064",
@@ -2980,7 +2980,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6203993563223556096",
@@ -2990,7 +2990,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656644359169642496",
@@ -3000,7 +3000,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656648858286301184",
@@ -3010,7 +3010,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656641250015973376",
@@ -3020,7 +3020,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6656294918394875904",
@@ -3030,7 +3030,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6248623725759954944",
@@ -3040,7 +3040,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248621196837912576",
@@ -3050,7 +3050,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248619562699325440",
@@ -3060,7 +3060,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204022970831077376",
@@ -3070,7 +3070,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204024512124551168",
@@ -3080,7 +3080,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204024369409163264",
@@ -3090,7 +3090,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204024857349324800",
@@ -3100,7 +3100,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248622685903912960",
@@ -3110,7 +3110,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204024604235661312",
@@ -3120,7 +3120,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248621588711735296",
@@ -3130,7 +3130,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248620421239799808",
@@ -3140,7 +3140,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248623415037526016",
@@ -3150,7 +3150,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6248623017631416320",
@@ -3160,7 +3160,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6204024724574437376",
@@ -3170,7 +3170,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6512371422935654400",
@@ -3180,7 +3180,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6512372669432467456",
@@ -3190,7 +3190,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6904159914697179136",
@@ -3200,7 +3200,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "",
@@ -3210,7 +3210,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6843956047682740224",
@@ -3220,7 +3220,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6830943938963316736",
@@ -3230,7 +3230,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6740423877461680128",
@@ -3240,7 +3240,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6740423469024550912",
@@ -3250,7 +3250,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6740422850926743552",
@@ -3260,7 +3260,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6904160303282659328",
@@ -3270,7 +3270,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6740422278559436800",
@@ -3280,7 +3280,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6740421595252793344",
@@ -3290,7 +3290,7 @@ const games = [
     "Themed": "School",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Play-a-long"
   },
   {
     "staging_ID": "6647763199723180032",
@@ -3300,7 +3300,7 @@ const games = [
     "Themed": "",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6557740654651908096",
@@ -3310,7 +3310,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6557741104239353856",
@@ -3320,7 +3320,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6557741811155734528",
@@ -3330,7 +3330,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6557742233354375168",
@@ -3340,7 +3340,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6560532663808696320",
@@ -3350,7 +3350,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6560533013521375232",
@@ -3360,7 +3360,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6560533394808770560",
@@ -3370,7 +3370,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6560533871231377408",
@@ -3380,7 +3380,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562861529860542464",
@@ -3390,7 +3390,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562861230823444480",
@@ -3400,7 +3400,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562860855659732992",
@@ -3410,7 +3410,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562860432181829632",
@@ -3420,7 +3420,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562862194401878016",
@@ -3430,7 +3430,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562862693847015424",
@@ -3440,7 +3440,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6562863162472407040",
@@ -3450,7 +3450,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826233875606413312",
@@ -3460,7 +3460,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826236236362027008",
@@ -3470,7 +3470,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826236558388109312",
@@ -3480,7 +3480,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826237477100064768",
@@ -3490,7 +3490,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826251845586001920",
@@ -3500,7 +3500,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826237202947776512",
@@ -3510,7 +3510,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826235493596925952",
@@ -3520,7 +3520,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6861115531693658112",
@@ -3530,7 +3530,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826236832288739328",
@@ -3540,7 +3540,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826209879288586240",
@@ -3550,7 +3550,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6826238155952365568",
@@ -3560,7 +3560,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6919357164180226048",
@@ -3570,7 +3570,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6919357614631698432",
@@ -3580,7 +3580,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6920028054949740544",
@@ -3590,7 +3590,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6932351244334010368",
@@ -3600,7 +3600,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6942165626777772032",
@@ -3610,7 +3610,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6955574071035961344",
@@ -3620,7 +3620,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6960350412067311616",
@@ -3630,7 +3630,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6975570878134358016",
@@ -3640,7 +3640,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6985705095128289280",
@@ -3650,7 +3650,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7045135671987675136",
@@ -3660,7 +3660,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7129854329323134976",
@@ -3670,7 +3670,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6942927439588888576",
@@ -3680,7 +3680,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6955574469322870784",
@@ -3690,7 +3690,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6961021970150465536",
@@ -3700,7 +3700,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6975571241491111936",
@@ -3710,7 +3710,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "6985690785215815680",
@@ -3720,7 +3720,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7046864327684526080",
@@ -3730,7 +3730,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7129865206919208960",
@@ -3740,7 +3740,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138606012299612160",
@@ -3750,7 +3750,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138609639026204672",
@@ -3760,7 +3760,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138610284462481408",
@@ -3770,7 +3770,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138624693020790784",
@@ -3780,7 +3780,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138625651159207936",
@@ -3790,7 +3790,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138626506168078336",
@@ -3800,7 +3800,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138642732957179904",
@@ -3810,7 +3810,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138644723108286464",
@@ -3820,7 +3820,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138643303906807808",
@@ -3830,7 +3830,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138609926134697984",
@@ -3840,7 +3840,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138610622410137600",
@@ -3850,7 +3850,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138624985825157120",
@@ -3860,7 +3860,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138625970157002752",
@@ -3870,7 +3870,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138626802596323328",
@@ -3880,7 +3880,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138643013132492800",
@@ -3890,7 +3890,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138644456845484032",
@@ -3900,7 +3900,7 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   },
   {
     "staging_ID": "7138643611038916608",
@@ -3910,13 +3910,11 @@ const games = [
     "Themed": "Party",
     "Location": "Movie_Theatre",
     "Character": "",
-    "Gameplay": ""
+    "Gameplay": "Watch"
   }
  ]
 
 const colors = ["#82ca58", "#34aea2 ", "#ea4548 ", "#9c5dd9 ", "#28877d ", "#70e511 ", "#257bb1 ", "#fecff1 ", "#1c5e87 ", "#df408f ", "#74b8e2 ", "#afa665 ", "#31B46C ", "#c011b6 ", "#a97c1e ", "#4e1c37 ", "#6EA4A1 ", "#1c5e87 ", "#5aaa99 ", "#b46864 ", "#c52e21 ", "#bce80b ", "#1bd1b6 ", "#e1b94d ", "#6c7e76"];
-
-
 
 //build array of curent categories
 let current_categories = []
@@ -3933,22 +3931,22 @@ let xcount = 0;
 let ystart = 0;
 let yoffset = 4000;
 
-
+//Gameplay
 for (let i = 0; i < games.length; i++) {
   //if value isn't in array then push new value -- categories
   if (!current_categories.includes(games[i].modal_type)) {
     current_categories.push(games[i].modal_type);
   }
   //if value isn't in array then push new value -- themes 
-  if (!catch_themes.includes(games[i].Location)) {
-    catch_themes.push(games[i].Location);
-    themes.push({ 'theme': games[i].Location ,  'xpos': 0 ,  'ypos': ystart ,  'xcount': 0 });
+  if (!catch_themes.includes(games[i].Gameplay)) {
+    catch_themes.push(games[i].Gameplay);
+    themes.push({ 'theme': games[i].Gameplay ,  'xpos': 0 ,  'ypos': ystart ,  'xcount': 0 });
     ystart += yoffset;
   }
 }
 
 themes.forEach(theme => {
-
+  //set labels on page only
   let themeLabel = figma.createText();
   themeLabel.characters = theme.theme
   themeLabel.fills = [{ type: 'SOLID', color: { r: 0, g: 0, b: 0 } }]
@@ -3992,7 +3990,7 @@ games.forEach(game => {
 
     //position each outerframe according to category
 
-    let groupNum = themes.findIndex(x => x.theme === game.Location); 
+    let groupNum = themes.findIndex(x => x.theme === game.Gameplay); 
 
     outerFrame.x = themes[groupNum].xpos
     outerFrame.y = themes[groupNum].ypos
@@ -4027,9 +4025,9 @@ games.forEach(game => {
             "prod_ID": "7140026685356908544",
             "modal_type": "video_music",
             "game": "Best Day",
-            "Location": "Party",
-            "Location": "",
-            "Character": "",
+            "Gameplay": "Party",
+            "Gameplay": "",
+            "Gameplay": "",
             "Gameplay": ""
         },*/
   //text -----------------
@@ -4055,12 +4053,12 @@ games.forEach(game => {
 
     innerFrame.appendChild(woppgame)
 
-    let Location = figma.createText();
-    Location.characters = game.Location
-    Location.fills = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }]
-    Location.fontSize = 22;
+    let Gameplay = figma.createText();
+    Gameplay.characters = game.Gameplay
+    Gameplay.fills = [{ type: 'SOLID', color: { r: 1, g: 1, b: 1 } }]
+    Gameplay.fontSize = 22;
 
-    innerFrame.appendChild(Location)
+    innerFrame.appendChild(Gameplay)
 
   })
 
