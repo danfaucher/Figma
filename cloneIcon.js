@@ -47,10 +47,34 @@ console.log(firstChildFrame0);
     //
 
     */
-
+    let thumbArray = [];
 
     const nodes = figma.currentPage.findAllWithCriteria({
         types: ['INSTANCE']
       })
       
-      console.log(nodes)
+      nodes.forEach(node => {
+
+        thumbArray.push({"id": node.name, "parent": node.parent.id})
+
+        console.log(node.parent.id)
+
+      })
+
+
+      let myvar = thumbArray[5].parent;
+
+      //let pageFrame = myvar.clone(); 
+
+      //console.log(thumbArray)
+
+
+      //let juju = figma.getNodeByIdAsync(figma.currentPage.selection[0].id).type
+
+      //!!!!!!!!!!!!!!!!!!!!!
+      //let juju = figma.getNodeByIdAsync(figma.currentPage.myvar)
+     /*let juju = figma.getNodeByIdAsync(myvar)
+
+      let pageFrame = juju.clone()
+      
+      console.log(juju)

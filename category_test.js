@@ -3918,7 +3918,7 @@ const colors = ["#82ca58", "#34aea2 ", "#ea4548 ", "#9c5dd9 ", "#28877d ", "#70e
 
 const tagColorHex = "#2c2349"
 
-const dressBorder = "#f4364c"
+const setThisBorderColor = "#00b74f"
 
 //build array of curent categories
 let catch_categories = []
@@ -4029,10 +4029,12 @@ games.forEach(game => {
     innerFrame.fills = [{ type: 'SOLID', color: categoryColor }]
 
 
-    let tagBorderColor = figma.util.rgb(dressBorder)
+    let tagBorderColor = figma.util.rgb(setThisBorderColor)
     innerFrame.strokes = [{ type: 'SOLID', color: tagBorderColor }]
     innerFrame.strokeWeight = 20
+    innerFrame.cornerRadius = 50
     innerFrame.resize(512, 512)
+    innerFrame.name = game.prod_ID;
 
 
     //text -----------------

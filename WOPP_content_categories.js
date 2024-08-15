@@ -3931,7 +3931,7 @@ let xcount = 0;
 let ystart = 0;
 let yoffset = 4000;
 
-//Gameplay
+//Gameplay -- replace this term with another term from the game categories to separate content by another grouping
 for (let i = 0; i < games.length; i++) {
   //if value isn't in array then push new value -- categories
   if (!current_categories.includes(games[i].modal_type)) {
