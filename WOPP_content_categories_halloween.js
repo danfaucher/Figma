@@ -2916,13 +2916,7 @@ nodes.forEach(node => {
     thumbArray.push({ "id": node.name, "parent": node.parent.parent.id })
 })
 
-
-
-
 // --- end thumbnails ---- //
-
-
-
 
 games.forEach(game => {
 
@@ -3043,7 +3037,7 @@ function positionItem(item, game){
 
     if (themes[groupNum].xcount === 1) {
         themes[groupNum].ypos -= yoffset;
-        themes[groupNum].ypos += 4600; //why plus a thousand?
+        themes[groupNum].ypos += 5200; //why plus a thousand?
         themes[groupNum].xcount = 0;
         themes[groupNum].xpos += 600;
 

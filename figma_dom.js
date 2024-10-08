@@ -4,3 +4,9 @@ for (const node of figma.currentPage.selection) {
   }
 }
 figma.closePlugin()
+
+
+for (const page of figma.root.children) {
+    await page.loadAsync()
+    console.log(`Page ${page.name} has ${page.children.length} children`)
+  }

@@ -73,8 +73,11 @@ console.log(firstChildFrame0);
 
       //!!!!!!!!!!!!!!!!!!!!!
       //let juju = figma.getNodeByIdAsync(figma.currentPage.myvar)
-     /*let juju = figma.getNodeByIdAsync(myvar)
+     /*let juju = figma.getNodeByIdAsync(myvar)*/
+      //!!!!!!!!!!!!!!!!!!!!!
+      let nodd = figma.currentPage.findOne(n => n.id === myvar);
+      //let mimi = FrameNode {id: myvar}
 
-      let pageFrame = juju.clone()
+      let pageFrame = nodd.clone()
       
       console.log(juju)
