@@ -1,3 +1,7 @@
+//stub script to create cabinet drawings 
+//draws one shape only
+
+
 const dark_grey = { r: 0.2784, g: 0.2784, b: 0.2784 }
 const pieces = [
     {name: "Left Side Carcass",
